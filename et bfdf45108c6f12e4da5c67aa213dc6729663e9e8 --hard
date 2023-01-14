@@ -1,0 +1,240 @@
+[33mcommit bfdf45108c6f12e4da5c67aa213dc6729663e9e8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Wed Jan 11 16:06:13 2023 +0900
+
+    lfs try
+
+[33mcommit 6f1ed1879520666b60d76c7ac45e614c7064c698[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Wed Jan 11 15:58:56 2023 +0900
+
+    without transform translate
+
+[33mcommit d4df484fb513b89fcf1878ee5f6489147cc577e9[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Wed Jan 11 15:54:44 2023 +0900
+
+    without transform translate
+
+[33mcommit 3df1c6cb59ba2807e22a2f39ece7a1c6bb610f3b[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Tue Jan 10 19:56:23 2023 +0900
+
+    Retrack
+
+[33mcommit 5457f3c7e842b399531e0204043d21560e399b10[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Tue Jan 10 19:54:54 2023 +0900
+
+    track
+
+[33mcommit c0442cad7a6cd813c9717489d128b2a1395c8d44[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Tue Jan 10 19:48:46 2023 +0900
+
+    Sky
+
+[33mcommit 876575881a7581cb759045022b0152f6fee2c9c2[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Mon Jan 9 21:17:12 2023 +0900
+
+    Joint
+
+[33mcommit f61a001cf42086392142d02874b65a1d2b5605b2[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Fri Jan 6 20:01:20 2023 +0900
+
+    Joint
+
+[33mcommit 6a70da37929a0d1af649504bb2d092e2b40149b6[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Fri Jan 6 17:43:37 2023 +0900
+
+    Image added
+
+[33mcommit 402dec0f95860cf7b7cfd725dd63d1743cad73cf[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Fri Jan 6 15:27:34 2023 +0900
+
+    css image update
+
+[33mcommit 9e112d3a524d971ed5ee8965b3787f193d95c875[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Fri Jan 6 13:54:14 2023 +0900
+
+    Joint
+
+[33mcommit fc59cdb519ba7b945900faa13ef2c1571aefeed0[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Wed Jan 4 21:57:09 2023 +0900
+
+    ha..
+
+[33mcommit dc6128e0a0cbd5632e71d69154d18c26f562a914[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Tue Jan 3 19:37:40 2023 +0900
+
+    Joint
+
+[33mcommit 207ac9b0f46c268c8871b8242f1008a0e6b8c2f2[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Tue Jan 3 19:06:58 2023 +0900
+
+    Joint
+
+[33mcommit 2a27d72b163b262a69f0ce1921dbc41f0db071ee[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Mon Jan 2 19:30:14 2023 +0900
+
+    ios horizontal scroll issue closed
+
+[33mcommit 4adca30dabf14850c1cd1036c14066ffea025176[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Fri Dec 30 15:05:35 2022 +0900
+
+    CDN Removed
+
+[33mcommit ad7900cb6908ea4fa1ffa6482b2db7a03c3b462e[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Thu Dec 29 16:56:39 2022 +0900
+
+    Joint
+
+[33mcommit a0b498f148bd4f46d04dcf21a97329ff29995eff[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Wed Dec 28 20:26:28 2022 +0900
+
+    Joint
+
+[33mcommit d039af4fc432b2d7baef5b26ed3b74390973344e[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Wed Dec 28 15:48:31 2022 +0900
+
+    Star Cloud
+
+[33mcommit a4650885c96392bf1f86b0c87f5f9cb6b0ae57f6[m
+Merge: 61b2ef3 e454db9
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Wed Dec 28 15:47:28 2022 +0900
+
+    Merge branch 'master' of https://github.com/in7jhub/ShuruWeb
+
+[33mcommit 61b2ef3fa279b31d72f55c1b025ae356970e9e6e[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Wed Dec 28 15:47:06 2022 +0900
+
+    Star Cloud
+
+[33mcommit e454db92c848629b4f8d1a0b34a289bde9b544be[m
+Author: sanhead <ijn7uhb@gmail.com>
+Date:   Tue Dec 27 16:09:57 2022 +0900
+
+    Web Test Isolated
+
+[33mcommit 1f9a311b12323e5f9e6188a991b65c35eb0265d9[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Mon Dec 26 21:19:12 2022 +0900
+
+    Stars
+
+[33mcommit a1fb9d3d8bea9196c2408e47907903fbaacfcf80[m
+Author: ifHead <ijn7uhb@gmail.com>
+Date:   Fri Dec 23 20:56:33 2022 +0900
+
+    Joint
+
+[33mcommit 5bb390ae7b5261e389dedb64ed2a07fe5e412b8e[m
+Author: ifhead <ijn7uhb@gmail.com>
+Date:   Thu Dec 8 16:23:16 2022 +0900
+
+    Joint
+
+[33mcommit 58c7a48e4e984b2b71417020657db7857dc3b5a2[m
+Author: unknown <ijn7uhb@gmail.com>
+Date:   Thu Dec 8 13:34:24 2022 +0900
+
+    Joint
+
+[33mcommit 0065e5ef15424c36596ad5f5de2e8937d3eacfa5[m
+Author: unknown <ijn7uhb@gmail.com>
+Date:   Thu Dec 1 20:23:03 2022 +0900
+
+    Work Joint
+
+[33mcommit 2ad611f362fc3e882a56ac87327de395a5c5547c[m
+Author: unknown <ijn7uhb@gmail.com>
+Date:   Tue Nov 29 19:17:54 2022 +0900
+
+    Improve pointer-event issue comment
+
+[33mcommit 58325d49055961a0b0696c578dfd6f882d8bfcaf[m
+Author: unknown <ijn7uhb@gmail.com>
+Date:   Tue Nov 29 18:41:00 2022 +0900
+
+    mouse state and animation
+
+[33mcommit d2d777c0c25c6e86b47d87ae7503ceb33465fffc[m
+Author: unknown <ijn7uhb@gmail.com>
+Date:   Mon Nov 28 20:04:31 2022 +0900
+
+    cursor animation with p5.js but instance mode is not working
+
+[33mcommit 3a97e05888ee13f565a3c3a0ec1e8ded5612a508[m
+Author: ifhead <ijn7uhb@gmail.com>
+Date:   Tue Sep 27 19:05:27 2022 +0900
+
+    Email Works
+
+[33mcommit 8c19bb6af2bc29f2e321596abddc5ddadce409dc[m
+Author: ifhead <ijn7uhb@gmail.com>
+Date:   Wed Sep 21 18:42:03 2022 +0900
+
+    text reveal
+
+[33mcommit 9c983b941c697c94a8bb2a675fff7ad6ab74a437[m
+Author: ifhead <ijn7uhb@gmail.com>
+Date:   Mon Sep 19 19:06:53 2022 +0900
+
+    인트로 작업 중
+
+[33mcommit 34d606ef3e9ae4862d1b891f148b3d77f0289c03[m
+Author: ifhead <ijn7uhb@gmail.com>
+Date:   Wed Sep 14 18:15:01 2022 +0900
+
+    스크롤 상단 고정, 모바일 분기, 컨텐츠 섹션 구분
+
+[33mcommit 0d3db16a047c037c82d6721a03b2d7f21344c8c1[m
+Author: ifhead <ijn7uhb@gmail.com>
+Date:   Tue Sep 13 19:04:54 2022 +0900
+
+    점프 구현 준비, gasp to 사용 시작
+
+[33mcommit e155cc3d3df0759ca6ad6f00b014e82d8718b287[m
+Author: ifhead <ijn7uhb@gmail.com>
+Date:   Thu Sep 8 19:27:45 2022 +0900
+
+    파비콘, 데스크탑용 모멘텀스크롤 변경(이전 버전은 상단잘림현상과 모바일 가로스크롤 문제)
+
+[33mcommit 3733a7128d9a862972bf34c2bfd63b6537daa89a[m
+Author: ifhead <ijn7uhb@gmail.com>
+Date:   Mon Sep 5 19:05:54 2022 +0900
+
+    import tests
+
+[33mcommit 9637867fbbfd441541622f20d85afdf892ec9cbe[m
+Author: Sanhead <ijn7uhb@gmail.com>
+Date:   Thu Sep 1 08:46:48 2022 +0900
+
+    IOS 가로스크롤 방지
+
+[33mcommit 5081c14283e8371585e170e766b106fdd41cd8d8[m
+Author: ifhead <ijn7uhb@gmail.com>
+Date:   Tue Aug 16 19:44:00 2022 +0900
+
+    const 외부 클래스에서 p5 메소드 사용하지 못하는 문제 발생
+
+[33mcommit 26a2e6f26cd8e9272e732f99ab02d0106ef92a97[m
+Author: sanhead <ijn7uhb@gmail.com>
+Date:   Wed Aug 3 19:07:09 2022 +0900
+
+    새 프로젝트 시작, 슈르 웹

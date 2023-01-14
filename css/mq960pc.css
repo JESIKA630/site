@@ -1,0 +1,78 @@
+@media screen and (max-width:960px) {
+    html {
+        cursor: auto;
+    }
+
+    #StarMainFG {
+        transform-origin: 0% 0%;
+        rotate: 60deg;
+        top: 35vh;
+        transform: translate(-50%, -50%);
+        width: 230%;
+    }
+
+    #Logo3D {
+        width: 50%;
+        top: 35vh;
+        transform: translate(-50%, -50%);
+    }
+
+    #LogoDeco {
+        position: absolute;
+        top: 40vh;
+        left: 50%;
+        width: 80%;
+        min-height: 50px;
+        transform: translate(-50%, -50%);
+    }
+
+    #SkyBG{
+        min-height: 700px;
+    }
+
+    #StarSpecFG {
+        position: absolute;
+        background-size: 80%;
+    }
+
+    #SkyLine {
+        top: 50vh;
+        width: 120%;
+        transform: translateX(-10%);
+    }
+
+    #CloudLineContainer {
+        transform: translateY(-100%);
+    }
+}
+
+@media screen and (min-width:2000px) {
+    html {
+        cursor: auto;
+    }
+
+    #Logo3D {
+        transform: translate(-50%, -50%);
+        width: 25%;
+    }
+
+    #LogoDeco {
+        width: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    #SkyLine {
+        position: relative;
+        transform: translateY(-35%);
+        float: left;
+        width: 100%;
+        background-size: 100%;
+    }
+
+    #StarSpecFG {
+        position: absolute;
+        background-size: 20%;
+        height: 400vh;
+        opacity: 85%;
+    }
+}
