@@ -41,8 +41,22 @@
         transform: translateX(-10%);
     }
 
-    #CloudLineContainer {
-        transform: translateY(-100%);
+    #FlatSkyBG {
+        position: relative;
+        top: -4000px;
+        width: 100%;
+        height: 8000px;
+        background-color: rgb(105, 187, 249);
+        z-index: -1;
+    }
+
+    #FlatSkyBG {
+        position: relative;
+        top: -8000px;
+        width: 100%;
+        height: 8000px;
+        background-color: rgb(105, 187, 249);
+        z-index: -1;
     }
 }
 
@@ -62,9 +76,6 @@
     }
 
     #SkyLine {
-        position: relative;
-        transform: translateY(-35%);
-        float: left;
         width: 100%;
         background-size: 100%;
     }
@@ -74,5 +85,14 @@
         background-size: 20%;
         height: 400vh;
         opacity: 85%;
+    }
+
+    #FlatSkyBG {
+        position: relative;
+        top: -6500px;
+        width: 100%;
+        height: 8000px;
+        background-color: rgb(105, 187, 249);
+        z-index: -1;
     }
 }

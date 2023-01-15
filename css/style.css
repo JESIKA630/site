@@ -156,7 +156,7 @@ body {
   width:100%;
   height: 80vh;
   min-height: 1400px;
-  z-index: -100;
+  z-index: 0;
 }
 
 #StarSpecFG{
@@ -168,6 +168,7 @@ body {
   background-repeat: repeat;
   width: 100%;
   height: 130vh;
+  z-index: 0;
 }
 
 #StarMainFG {
@@ -180,6 +181,7 @@ body {
   width: 100%;
   max-width: 2500px;
   min-height: 100px;
+  z-index: 1;
 }
 
 #SkyLine {
@@ -192,11 +194,9 @@ body {
 
 .CloudLineContainer {
   position: relative;
-  /* border: red 3px solid; */
 }
 
 .CloudLine {
-  position: relative;
   width: 100%;
 }
 
@@ -205,12 +205,10 @@ body {
   width: 100%;
   height: 4000px;
   position: relative;
-  background-size: 100%;
-  background-color: rgb(105, 187, 249);
   background: linear-gradient(180deg,
     rgb(225, 242, 255) 0%,
-    rgb(225, 242, 255) 3%,
-    rgb(105, 187, 249) 40%
+    rgba(105, 187, 249, 1) 60%,
+    rgba(105, 187, 249, 0) 100%
   );
   z-index: -1;
 }
@@ -223,6 +221,7 @@ body {
   width: 30%;
   min-height: 50px;
   transform: translate(-45%, -65%);
+  z-index: 1;
 }
 
 #LogoDeco {
@@ -232,8 +231,26 @@ body {
   width: 60%;
   min-height: 50px;
   transform: translate(-50%, -50%);
+  z-index: 1;
 }
 
+#FlatSkyBG {
+  position: relative;
+  top: -8000px;
+  width: 100%;
+  height: 8000px;
+  background-color: rgb(105, 187, 249);
+  z-index: -1;
+}
+
+#FlatSkyCloud {
+  background-image: url("/Image/Cloud.png");
+  width: 100%;
+  background-size: 100%;
+  opacity: 80%;
+  height: 5000px;
+  background-repeat: repeat;
+}
 
 p {
   font-family: 'Noto Sans KR';
@@ -244,9 +261,9 @@ p {
 
 h1 {
   font-family: 'NanumSquare', sans-serif;
-  font-size:1em;
+  font-size: 1em;
   font-weight: 400;
-} 
+}
 
 .neumorphicContainer {
   height: 100vh;

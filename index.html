@@ -47,7 +47,7 @@
 
   <!--모바일 가로스크롤 제거-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1">
-  <meta content="yes" name="apple-mobile-web-app-capable" />
+  <meta content="yes" name="apple-mobile-web-app-capable"/>
   <meta content="minimum-scale=1.0, width=device-width, maximum-scale=1, user-scalable=no" name="viewport" />
   
   <script src="/js/util/setupUtils.js"></script>
@@ -65,10 +65,16 @@
     <img id="SkyLine" src="/Image/skyline.png">
     <img id="Logo3D" src="/Image/3DLogo.png">
     <img id="LogoDeco" src="/Image/Objects.png">
+    
     <div class="luxy-el CloudLineContainer" data-speed-y="-52">
       <img class="CloudLine" src="/Image/CloudLine.png">
       <div class="BGAfterBackground"></div>
     </div>
+
+    <div id="FlatSkyBG">
+      <div id="FlatSkyCloud"></div>
+    </div>
+    
     <!-- <img class="LogoDeco" src="/Image/Satellite.png">
     <img class="LogoDeco2" src="/Image/Spaceship.png">
     <img class="LogoDeco3" src="/Image/Robot.png">
@@ -128,7 +134,9 @@
 </script> -->
   <!-- 이미지 변경 데모 끝-->
   <div class="container2">
-    <h1>&nbsp;<span class="auto-text" style="z-index: index 1000; color:white;"></span></h1>
+    <h1>&nbsp;
+      <span class="auto-text" style="z-index: index 1000; color:white;"></span>
+    </h1>
   </div>
 
   <script src="/js/gsap/intro.js"></script>
